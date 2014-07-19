@@ -1,0 +1,10 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: Hulk
+url: http://blog.kirkchris.co
+author_info: <a href="mailto: hardison324@gmail.com">TimothyJin</a>
